@@ -7,7 +7,7 @@
   width: 800px;
   margin-top: 5rem;
   padding: 20px;
-  background: linear-gradient(to top left, #007bff6d, #007bfff8, darkblue);
+  background: #eee;
   border: 1px solid #ddd;
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -21,7 +21,7 @@
 
 .title {
   font-size: 28px;
-  color: #fff;
+  color: #000;
 }
 
 .nav {
@@ -44,7 +44,7 @@
 
 .content {
   text-align: center;
-  color: #fff;
+  color: #000;
 }
 
 .buttons {
